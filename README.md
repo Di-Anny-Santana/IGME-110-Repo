@@ -11,6 +11,7 @@
 - Third one
 ---
 (https://www.rit.edu/)
+---
 [RIT](https://www.rit.edu/)
 ---
 ![RIT Tiger Statue](https://upload.wikimedia.org/wikipedia/commons/4/4b/Rochester_Institute_of_Technology_Bengal_Tiger_statue.jpg)
