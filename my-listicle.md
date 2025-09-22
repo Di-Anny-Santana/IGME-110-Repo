@@ -1,6 +1,6 @@
 # Flipline Studio Games
 ---
-<p>Flipline Studio's has made many memorable games, the most notable being the the **Papa Louie** franchise.<br> Other games the studio has made are listed below.</p>
+Flipline Studio's has made many memorable games, the most notable being the the **Papa Louie** franchise. Other games the studio has made are listed below.
 
 ---
 
